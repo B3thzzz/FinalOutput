@@ -1,0 +1,10 @@
+Course: Khavi
+Lecturer: good
+Academic Performance: bad
+Comments: well
+----------------------------------------
+Course: Aryan
+Lecturer: good
+Academic Performance: ook
+Comments: good
+----------------------------------------

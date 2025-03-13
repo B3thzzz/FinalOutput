@@ -1,0 +1,3 @@
+Python Programming,5,Present
+Database Management,3,Present
+Python,slgnlsdnfs,Absent 

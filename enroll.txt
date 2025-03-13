@@ -1,0 +1,6 @@
+Khavi: Database Management,02
+Tanu: Database Management,02
+Khavi: Information System,03
+Khavi: Operating System,04
+Khavi: Operating System,04
+Aryan: Information System,03
