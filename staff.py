@@ -134,4 +134,5 @@ def staff_menu():
             print("Invalid choice. Try again.")
 
 # Run the staff menu
-staff_menu()
+if __name__ == "__main__":
+    staff_menu()
